@@ -1,0 +1,409 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/18/2023, 3:44:32 AM
+  ==========================================
+  
+
+[2023-11-18T09:45:46.565Z] : [success]: Robot saved successfully
+
+[2023-11-18T09:45:46.645Z] : [info]: ---------------------------------------------
+
+[2023-11-18T09:45:46.645Z] : [success]: Bot started
+
+[2023-11-18T09:45:46.646Z] : [info]: Robot start
+
+[2023-11-18T09:45:57.206Z] : [error]: Canceled by user
+
+[2023-11-18T09:45:57.472Z] : [warn]: There is a small amount of free memory (RAM) left, 90.62% of RAM is being used (7197 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T09:45:57.519Z] : [info]: Total execution time: 10s 560ms
+
+[2023-11-18T09:45:57.520Z] : [info]: ---------------------------------------------
+
+[2023-11-18T09:46:06.989Z] : [success]: Robot saved successfully
+
+[2023-11-18T09:46:07.060Z] : [success]: Bot started
+
+[2023-11-18T09:46:07.061Z] : [info]: Robot start
+
+[2023-11-18T09:46:12.590Z] : [success]: Bot finished successfully, total execution time: 5s 527ms
+
+[2023-11-18T09:46:12.591Z] : [info]: ---------------------------------------------
+
+[2023-11-18T09:47:32.039Z] : [success]: Robot saved successfully
+
+[2023-11-18T09:47:32.102Z] : [success]: Bot started
+
+[2023-11-18T09:47:32.103Z] : [info]: Robot start
+
+[2023-11-18T09:47:33.324Z] : [error]: Bad Request
+
+[2023-11-18T09:47:33.659Z] : [info]: Total execution time: 1s 221ms
+
+[2023-11-18T09:47:33.660Z] : [info]: ---------------------------------------------
+
+[2023-11-18T09:48:12.098Z] : [success]: Robot saved successfully
+
+[2023-11-18T09:48:18.894Z] : [success]: Bot started
+
+[2023-11-18T09:48:18.895Z] : [info]: Robot start
+
+[2023-11-18T09:48:19.642Z] : [info]: {"status_text":"Bad Request","status_code":400,"response_body":{"message":"Please upload a file!"}}
+
+[2023-11-18T09:48:19.983Z] : [success]: Bot finished successfully, total execution time: 1s 86ms
+
+[2023-11-18T09:48:19.984Z] : [info]: ---------------------------------------------
+
+[2023-11-18T09:48:57.475Z] : [warn]: There is a small amount of free memory (RAM) left, 90.53% of RAM is being used (7190 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T09:49:06.197Z] : [success]: Robot saved successfully
+
+[2023-11-18T09:49:06.276Z] : [success]: Bot started
+
+[2023-11-18T09:49:06.277Z] : [info]: Robot start
+
+[2023-11-18T09:49:07.195Z] : [info]: {"status_text":"Bad Request","status_code":400,"response_body":{"message":"Please upload a file!"}}
+
+[2023-11-18T09:49:07.494Z] : [success]: Bot finished successfully, total execution time: 1s 215ms
+
+[2023-11-18T09:49:07.494Z] : [info]: ---------------------------------------------
+
+[2023-11-18T09:51:57.476Z] : [warn]: There is a small amount of free memory (RAM) left, 91.53% of RAM is being used (7269 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T09:52:32.854Z] : [success]: Robot saved successfully
+
+[2023-11-18T09:52:42.124Z] : [info]: ---------------------------------------------
+
+[2023-11-18T09:52:42.124Z] : [success]: Bot started
+
+[2023-11-18T09:52:42.125Z] : [info]: Robot start
+
+[2023-11-18T09:52:50.512Z] : [info]: {"status_text":"Bad Request","status_code":400,"response_body":{"message":"Please upload a file!"}}
+
+[2023-11-18T09:52:51.324Z] : [success]: Bot finished successfully, total execution time: 9s 197ms
+
+[2023-11-18T09:52:51.325Z] : [info]: ---------------------------------------------
+
+[2023-11-18T09:54:53.846Z] : [success]: Robot saved successfully
+
+[2023-11-18T09:54:59.652Z] : [success]: Bot started
+
+[2023-11-18T09:54:59.653Z] : [info]: Robot start
+
+[2023-11-18T09:55:24.665Z] : [error]: Script Stopped.
+
+[2023-11-18T09:55:24.862Z] : [info]: Total execution time: 25s 12ms
+
+[2023-11-18T09:55:24.863Z] : [info]: ---------------------------------------------
+
+[2023-11-18T09:56:17.695Z] : [success]: Robot saved successfully
+
+[2023-11-18T10:01:06.547Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:01:06.548Z] : [success]: Bot started
+
+[2023-11-18T10:01:06.548Z] : [info]: Robot start
+
+[2023-11-18T10:01:35.902Z] : [success]: Bot finished successfully, total execution time: 29s 352ms
+
+[2023-11-18T10:01:35.904Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:05:56.648Z] : [success]: Bot started
+
+[2023-11-18T10:05:56.649Z] : [info]: Robot start
+
+[2023-11-18T10:06:03.137Z] : [success]: Bot finished successfully, total execution time: 6s 485ms
+
+[2023-11-18T10:06:03.138Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:06:36.881Z] : [success]: Bot started
+
+[2023-11-18T10:06:36.882Z] : [info]: Robot start
+
+[2023-11-18T10:06:43.345Z] : [success]: Bot finished successfully, total execution time: 6s 461ms
+
+[2023-11-18T10:06:43.346Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:07:57.286Z] : [warn]: There is a small amount of free memory (RAM) left, 90.66% of RAM is being used (7200 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T10:10:46.656Z] : [success]: Robot saved successfully
+
+[2023-11-18T10:10:46.725Z] : [success]: Bot started
+
+[2023-11-18T10:10:46.726Z] : [info]: Robot start
+
+[2023-11-18T10:10:51.359Z] : [error]: The "path" argument must be of type string. Received an instance of Object
+
+[2023-11-18T10:10:51.646Z] : [info]: Total execution time: 4s 632ms
+
+[2023-11-18T10:10:51.647Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:11:47.113Z] : [success]: Robot saved successfully
+
+[2023-11-18T10:11:47.223Z] : [success]: Bot started
+
+[2023-11-18T10:11:47.225Z] : [info]: Robot start
+
+[2023-11-18T10:12:11.820Z] : [success]: Bot finished successfully, total execution time: 24s 592ms
+
+[2023-11-18T10:12:11.821Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:13:27.282Z] : [warn]: There is a small amount of free memory (RAM) left, 92.24% of RAM is being used (7326 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T10:14:57.246Z] : [warn]: There is a small amount of free memory (RAM) left, 90.37% of RAM is being used (7177 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T10:17:57.262Z] : [warn]: There is a small amount of free memory (RAM) left, 91.78% of RAM is being used (7289 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T10:19:31.166Z] : [success]: Robot saved successfully
+
+[2023-11-18T10:19:31.257Z] : [success]: Bot started
+
+[2023-11-18T10:19:31.258Z] : [info]: Robot start
+
+[2023-11-18T10:20:01.218Z] : [info]: {"status_code":null,"status_text":"request to http://localhost:6060/pdfconverter failed, reason: net::ERR_CONNECTION_RESET","response_body":null}
+
+[2023-11-18T10:20:01.899Z] : [success]: Bot finished successfully, total execution time: 30s 637ms
+
+[2023-11-18T10:20:01.902Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:21:03.860Z] : [success]: Bot started
+
+[2023-11-18T10:21:03.861Z] : [info]: Robot start
+
+[2023-11-18T10:21:28.199Z] : [error]: Selectors: Invalid length for a Base-64 char array or string.
+
+[2023-11-18T10:21:28.654Z] : [info]: Total execution time: 24s 337ms
+
+[2023-11-18T10:21:28.655Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:24:57.266Z] : [warn]: There is a small amount of free memory (RAM) left, 94.13% of RAM is being used (7476 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T10:32:12.234Z] : [success]: Robot saved successfully
+
+[2023-11-18T10:33:17.093Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:33:17.094Z] : [success]: Bot started
+
+[2023-11-18T10:33:17.094Z] : [info]: Robot start
+
+[2023-11-18T10:33:49.542Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-11-18T10:33:49.601Z] : [success]: Bot finished successfully, total execution time: 32s 504ms
+
+[2023-11-18T10:33:49.602Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:40:31.616Z] : [success]: Robot saved successfully
+
+[2023-11-18T10:40:31.695Z] : [success]: Bot started
+
+[2023-11-18T10:40:31.696Z] : [info]: Robot start
+
+[2023-11-18T10:41:08.430Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-11-18T10:41:08.834Z] : [error]: The "path" argument must be of type string. Received an instance of Object
+
+[2023-11-18T10:41:09.250Z] : [info]: Total execution time: 37s 138ms
+
+[2023-11-18T10:41:09.250Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:42:18.494Z] : [success]: Robot saved successfully
+
+[2023-11-18T10:42:43.160Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:42:43.162Z] : [success]: Bot started
+
+[2023-11-18T10:42:43.162Z] : [info]: Robot start
+
+[2023-11-18T10:43:13.108Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-11-18T10:43:13.125Z] : [info]: The "path" argument must be of type string. Received an instance of Object
+
+[2023-11-18T10:43:13.649Z] : [success]: Bot finished successfully, total execution time: 30s 481ms
+
+[2023-11-18T10:43:13.651Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:45:39.428Z] : [success]: Robot saved successfully
+
+[2023-11-18T10:45:49.061Z] : [success]: Bot started
+
+[2023-11-18T10:45:49.063Z] : [info]: Robot start
+
+[2023-11-18T10:46:36.370Z] : [success]: Bot finished successfully, total execution time: 47s 303ms
+
+[2023-11-18T10:46:36.373Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:49:16.195Z] : [success]: Robot saved successfully
+
+[2023-11-18T10:49:20.826Z] : [success]: Bot started
+
+[2023-11-18T10:49:20.827Z] : [info]: Robot start
+
+[2023-11-18T10:50:01.176Z] : [success]: Bot finished successfully, total execution time: 40s 346ms
+
+[2023-11-18T10:50:01.177Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:51:26.504Z] : [success]: Robot saved successfully
+
+[2023-11-18T10:51:26.583Z] : [success]: Bot started
+
+[2023-11-18T10:51:26.586Z] : [info]: Robot start
+
+[2023-11-18T10:51:27.245Z] : [warn]: There is a small amount of free memory (RAM) left, 90.23% of RAM is being used (7166 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T10:51:59.750Z] : [info]: {"status_code":null,"status_text":"request to http://localhost:6060/pdfconverter failed, reason: net::ERR_CONNECTION_RESET","response_body":null}
+
+[2023-11-18T10:52:00.532Z] : [success]: Bot finished successfully, total execution time: 33s 942ms
+
+[2023-11-18T10:52:00.533Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:52:38.220Z] : [success]: Bot started
+
+[2023-11-18T10:52:38.220Z] : [info]: Robot start
+
+[2023-11-18T10:52:57.247Z] : [warn]: There is a small amount of free memory (RAM) left, 91.77% of RAM is being used (7288 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T10:53:04.973Z] : [info]: {"status_code":null,"status_text":"request to http://localhost:6060/pdfconverter failed, reason: net::ERR_CONNECTION_RESET","response_body":null}
+
+[2023-11-18T10:53:05.300Z] : [success]: Bot finished successfully, total execution time: 27s 76ms
+
+[2023-11-18T10:53:05.302Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:53:24.605Z] : [success]: Bot started
+
+[2023-11-18T10:53:24.608Z] : [info]: Robot start
+
+[2023-11-18T10:54:10.989Z] : [info]: {"status_code":null,"status_text":"request to http://localhost:6060/pdfconverter failed, reason: net::ERR_CONNECTION_REFUSED","response_body":null}
+
+[2023-11-18T10:54:11.398Z] : [success]: Bot finished successfully, total execution time: 46s 786ms
+
+[2023-11-18T10:54:11.400Z] : [info]: ---------------------------------------------
+
+[2023-11-18T10:54:56.937Z] : [success]: Bot started
+
+[2023-11-18T10:54:56.938Z] : [info]: Robot start
+
+[2023-11-18T10:55:30.649Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-11-18T10:55:31.523Z] : [success]: Bot finished successfully, total execution time: 34s 583ms
+
+[2023-11-18T10:55:31.524Z] : [info]: ---------------------------------------------
+
+[2023-11-18T11:00:12.521Z] : [success]: Robot saved successfully
+
+[2023-11-18T11:00:46.359Z] : [success]: Robot saved successfully
+
+[2023-11-18T11:00:51.125Z] : [success]: Bot started
+
+[2023-11-18T11:00:51.126Z] : [info]: Robot start
+
+[2023-11-18T11:01:34.910Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-11-18T11:01:35.719Z] : [error]: Unexpected token '['
+
+[2023-11-18T11:01:36.076Z] : [info]: Total execution time: 44s 590ms
+
+[2023-11-18T11:01:36.077Z] : [info]: ---------------------------------------------
+
+[2023-11-18T11:02:12.132Z] : [success]: Bot started
+
+[2023-11-18T11:02:12.133Z] : [info]: Robot start
+
+[2023-11-18T11:02:52.764Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-11-18T11:02:52.780Z] : [info]: {"0":{"DETALLE DE OPERACIONES":"FECHA","":"CONCEPTO/REFERENCIA"},"1":{"DETALLE DE OPERACIONES":"01/10/2023","":"SALDO INICIAL"},"2":{"":"SPEI RECIBIDO DE BBVA BANCOMER  CUENTA:"},"3":{"DETALLE DE OPERACIONES":"25/10/2023","":"012694004563718844 ORDENANTE: JULIE LAURINDA YVONN\nSTUDER CLAVE RASTREO: MBAN01002310250051132341 REF:"},"4":{"":"2510230 APORTACION A CAPITAL"},"5":{"DETALLE DE OPERACIONES":"26/10/2023","":"CARGO COMPRA - VTA DE DIVISAS DEAL: 2244220"},"6":{"":"[SALDO INICIAL DE 0.00]"},"7":{"":21700},"8":{"DETALLE DE OPERACIONES":"Los Datos Personales que le sean compartidos a BANCO BASE,S.A.,\nINSTITUCIÓN DE BANCA MÚLTIPLE, GRUPO FINANCIERO BASE,","":18300},"9":{"DETALLE DE OPERACIONES":"serán tratados de acuerdo a lo dispuesto en el Aviso de Privacidad"},"10":{"DETALLE DE OPERACIONES":"disponible en la dirección:"},"11":{"DETALLE DE OPERACIONES":"http://www.bancobase.com/aviso-de-privacidad.html y de conformidad\ncon la Ley Federal de Protección de Datos Personales en Posesión de"},"12":{"DETALLE DE OPERACIONES":"los Particulares, su Reglamento y demás normatividad aplicable, en caso"},"13":{"DETALLE DE OPERACIONES":"de cualquier duda, comentario o solicitud favor de comunicarse a:"},"14":{"DETALLE DE OPERACIONES":"protecciondedatos@bancobase.com.","":0},"15":{"":"Retiros en efectivo"},"16":{"":"Saldo final"},"17":{"DETALLE DE OPERACIONES":"Grupo Financiero BASE no tiene relación con instituciones en el extranjero para productos de inversión, no tiene negocios\nconjuntos con otras empresas y no participa en mercados secundarios como Forex."},"18":{"DETALLE DE OPERACIONES":"Página 2 de 4"}}
+
+[2023-11-18T11:02:53.770Z] : [success]: Bot finished successfully, total execution time: 41s 634ms
+
+[2023-11-18T11:02:53.771Z] : [info]: ---------------------------------------------
+
+[2023-11-18T11:15:24.156Z] : [success]: Robot saved successfully
+
+[2023-11-18T11:15:24.235Z] : [success]: Bot started
+
+[2023-11-18T11:15:24.236Z] : [info]: Robot start
+
+[2023-11-18T11:16:17.601Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-11-18T11:16:18.315Z] : [error]: Cannot convert undefined or null to object
+
+[2023-11-18T11:16:18.812Z] : [info]: Total execution time: 54s 77ms
+
+[2023-11-18T11:16:18.813Z] : [info]: ---------------------------------------------
+
+[2023-11-18T11:17:15.367Z] : [success]: Robot saved successfully
+
+[2023-11-18T11:17:28.217Z] : [error]: Activity parameters required: Console log
+
+[2023-11-18T11:17:28.425Z] : [info]: ---------------------------------------------
+
+[2023-11-18T11:17:38.655Z] : [success]: Robot saved successfully
+
+[2023-11-18T11:17:44.267Z] : [success]: Bot started
+
+[2023-11-18T11:17:44.267Z] : [info]: Robot start
+
+[2023-11-18T11:18:24.050Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-11-18T11:18:24.124Z] : [info]: Selectors: Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.IDictionary`2[System.String,System.String][]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path '['DETALLE DE OPERACIONES']['DETALLE DE OPERACIONES']', line 1, position 52.
+
+[2023-11-18T11:18:24.824Z] : [success]: Bot finished successfully, total execution time: 40s 554ms
+
+[2023-11-18T11:18:24.826Z] : [info]: ---------------------------------------------
+
+[2023-11-18T11:18:44.118Z] : [success]: Robot saved successfully
+
+[2023-11-18T11:19:05.644Z] : [success]: Bot started
+
+[2023-11-18T11:19:05.645Z] : [info]: Robot start
+
+[2023-11-18T11:19:38.588Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-11-18T11:19:38.638Z] : [info]: Selectors: Error converting value "FECHA" to type 'System.Collections.Generic.IDictionary`2[System.String,System.String][]'. Path '['DETALLE DE OPERACIONES']', line 1, position 33.
+
+[2023-11-18T11:19:39.187Z] : [success]: Bot finished successfully, total execution time: 33s 538ms
+
+[2023-11-18T11:19:39.188Z] : [info]: ---------------------------------------------
+
+[2023-11-18T11:19:57.584Z] : [success]: Robot saved successfully
+
+[2023-11-18T11:20:27.182Z] : [success]: Robot saved successfully
+
+[2023-11-18T11:20:37.192Z] : [success]: Bot started
+
+[2023-11-18T11:20:37.192Z] : [info]: Robot start
+
+[2023-11-18T11:21:08.097Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-11-18T11:21:08.104Z] : [info]: undefined
+
+[2023-11-18T11:21:08.131Z] : [info]: Selectors: Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.IDictionary`2[System.String,System.String][]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path '['DETALLE DE OPERACIONES']['DETALLE DE OPERACIONES']', line 1, position 52.
+
+[2023-11-18T11:21:08.708Z] : [success]: Bot finished successfully, total execution time: 31s 514ms
+
+[2023-11-18T11:21:08.709Z] : [info]: ---------------------------------------------
+
+[2023-11-18T11:23:27.254Z] : [warn]: There is a small amount of free memory (RAM) left, 90.63% of RAM is being used (7198 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T11:25:27.257Z] : [warn]: There is a small amount of free memory (RAM) left, 90.57% of RAM is being used (7193 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T11:27:00.329Z] : [success]: Robot saved successfully
+
+[2023-11-18T11:27:12.306Z] : [success]: Bot started
+
+[2023-11-18T11:27:12.307Z] : [info]: Robot start
+
+[2023-11-18T11:27:27.276Z] : [warn]: There is a small amount of free memory (RAM) left, 92.12% of RAM is being used (7316 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T11:27:46.931Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-11-18T11:27:48.080Z] : [success]: Bot finished successfully, total execution time: 35s 769ms
+
+[2023-11-18T11:27:48.082Z] : [info]: ---------------------------------------------
+
+[2023-11-18T11:28:27.245Z] : [warn]: There is a small amount of free memory (RAM) left, 91.22% of RAM is being used (7245 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+

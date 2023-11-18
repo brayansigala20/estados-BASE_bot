@@ -1,0 +1,111 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/18/2023, 9:50:43 AM
+  ==========================================
+  
+
+[2023-11-18T15:51:00.091Z] : [warn]: There is a small amount of free memory (RAM) left, 94.66% of RAM is being used (7518 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T15:51:33.249Z] : [info]: ---------------------------------------------
+
+[2023-11-18T15:51:33.250Z] : [success]: Bot started
+
+[2023-11-18T15:51:33.251Z] : [info]: Robot start
+
+[2023-11-18T15:52:14.436Z] : [success]: Bot finished successfully, total execution time: 41s 180ms
+
+[2023-11-18T15:52:14.437Z] : [info]: ---------------------------------------------
+
+[2023-11-18T15:54:00.106Z] : [warn]: There is a small amount of free memory (RAM) left, 90.44% of RAM is being used (7183 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T15:59:00.106Z] : [warn]: There is a small amount of free memory (RAM) left, 93.79% of RAM is being used (7449 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T16:51:45.114Z] : [success]: Bot started
+
+[2023-11-18T16:51:45.117Z] : [info]: Robot start
+
+[2023-11-18T16:52:10.136Z] : [info]: {"status_code":null,"status_text":"request to http://localhost:6060/pdfconverter failed, reason: net::ERR_CONNECTION_RESET","response_body":null}
+
+[2023-11-18T16:52:10.579Z] : [success]: Bot finished successfully, total execution time: 25s 457ms
+
+[2023-11-18T16:52:10.580Z] : [info]: ---------------------------------------------
+
+[2023-11-18T16:52:47.099Z] : [success]: Bot started
+
+[2023-11-18T16:52:47.100Z] : [info]: Robot start
+
+[2023-11-18T16:53:13.875Z] : [info]: {"status_code":null,"status_text":"request to http://localhost:6060/pdfconverter failed, reason: net::ERR_CONNECTION_RESET","response_body":null}
+
+[2023-11-18T16:53:14.481Z] : [success]: Bot finished successfully, total execution time: 27s 378ms
+
+[2023-11-18T16:53:14.482Z] : [info]: ---------------------------------------------
+
+[2023-11-18T16:55:30.121Z] : [warn]: There is a small amount of free memory (RAM) left, 91.04% of RAM is being used (7230 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T17:02:08.215Z] : [success]: Bot started
+
+[2023-11-18T17:02:08.217Z] : [info]: Robot start
+
+[2023-11-18T17:03:06.924Z] : [success]: Bot finished successfully, total execution time: 58s 703ms
+
+[2023-11-18T17:03:06.927Z] : [info]: ---------------------------------------------
+
+[2023-11-18T17:03:30.110Z] : [warn]: There is a small amount of free memory (RAM) left, 91% of RAM is being used (7227 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T17:05:00.107Z] : [warn]: There is a small amount of free memory (RAM) left, 91.71% of RAM is being used (7284 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T17:06:30.109Z] : [warn]: There is a small amount of free memory (RAM) left, 93.54% of RAM is being used (7429 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-18T17:17:32.370Z] : [success]: Bot started
+
+[2023-11-18T17:17:32.372Z] : [info]: Robot start
+
+[2023-11-18T17:18:11.992Z] : [info]: {"status_code":null,"status_text":"request to http://localhost:6060/pdfconverter failed, reason: net::ERR_CONNECTION_RESET","response_body":null}
+
+[2023-11-18T17:18:12.980Z] : [success]: Bot finished successfully, total execution time: 40s 602ms
+
+[2023-11-18T17:18:12.981Z] : [info]: ---------------------------------------------
+
+[2023-11-18T17:20:02.766Z] : [success]: Bot started
+
+[2023-11-18T17:20:02.767Z] : [info]: Robot start
+
+[2023-11-18T17:20:37.181Z] : [info]: {"status_code":null,"status_text":"request to http://localhost:6060/pdfconverter failed, reason: net::ERR_CONNECTION_RESET","response_body":null}
+
+[2023-11-18T17:20:37.322Z] : [success]: Bot finished successfully, total execution time: 34s 551ms
+
+[2023-11-18T17:20:37.323Z] : [info]: ---------------------------------------------
+
+[2023-11-18T17:26:12.777Z] : [success]: Bot started
+
+[2023-11-18T17:26:12.780Z] : [info]: Robot start
+
+[2023-11-18T17:26:46.018Z] : [info]: {"status_code":null,"status_text":"request to http://localhost:6060/pdfconverter failed, reason: net::ERR_CONNECTION_RESET","response_body":null}
+
+[2023-11-18T17:26:46.322Z] : [success]: Bot finished successfully, total execution time: 33s 539ms
+
+[2023-11-18T17:26:46.324Z] : [info]: ---------------------------------------------
+
+[2023-11-18T17:28:10.703Z] : [info]: Internet connection // error
+
+[2023-11-18T17:28:10.783Z] : [success]: Bot started
+
+[2023-11-18T17:28:10.784Z] : [info]: Robot start
+
+[2023-11-18T17:28:44.358Z] : [success]: Bot finished successfully, total execution time: 33s 574ms
+
+[2023-11-18T17:28:44.359Z] : [info]: ---------------------------------------------
+
+[2023-11-18T17:29:34.984Z] : [success]: Connection to our licenses server is restored
+
+[2023-11-18T17:29:35.104Z] : [success]: Bot started
+
+[2023-11-18T17:29:35.105Z] : [info]: Robot start
+
+[2023-11-18T17:30:13.497Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-11-18T17:30:14.060Z] : [success]: Bot finished successfully, total execution time: 38s 951ms
+
+[2023-11-18T17:30:14.062Z] : [info]: ---------------------------------------------
+
